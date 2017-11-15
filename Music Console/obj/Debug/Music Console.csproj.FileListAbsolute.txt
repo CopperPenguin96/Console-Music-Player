@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\Music Console\Music Console\bin\Debug\Music Console.exe.config
+d:\documents\visual studio 2017\Projects\Music Console\Music Console\bin\Debug\Music Console.exe
+d:\documents\visual studio 2017\Projects\Music Console\Music Console\bin\Debug\Music Console.pdb
+d:\documents\visual studio 2017\Projects\Music Console\Music Console\obj\Debug\Music Console.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Music Console\Music Console\obj\Debug\Music Console.exe
+d:\documents\visual studio 2017\Projects\Music Console\Music Console\obj\Debug\Music Console.pdb

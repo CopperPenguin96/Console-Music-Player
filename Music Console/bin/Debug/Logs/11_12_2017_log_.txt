@@ -1,0 +1,57 @@
+<11/12/2017 07:53:02> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:53:38> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:53:58> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:53:58> &8Use /load (Url Directory/Local Directory) to start playing. Use /help for a list of commands.
+<11/12/2017 07:54:14> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:54:27> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:55:25> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:55:44> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:55:55> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:59:14> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 07:59:32> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:00:36> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:00:44> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:01:26> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:01:51> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:02:36> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:02:51> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:03:07> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:03:32> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:08:21> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:08:22> &8Use /load (Url Directory/Local Directory) to start playing. Use /help for a list of commands.
+<11/12/2017 08:08:22> &0-&c=&d-&6C&3o&bp&bp&be&2r&8P&7e&7n&aq&3u&6i&4n&39&76&1'&6s&3M&6u&2s&ei&5c &cP&9l&aa&1y&ce&8r&4-&1=&3-&0=
+<11/12/2017 08:08:23> &6-&3=&d-&dC&ao&ap&bp&6e&dr&4P&3e&3n&2q&6u&6i&cn&99&76&2'&as&1M&bu&2s&4i&5c &0P&5l&4a&4y&2e&br&a-&2=&4-&3=
+<11/12/2017 08:08:24> &c-&a=&d-&4C&3o&8p&cp&1e&8r&1P&ee&en&9q&au&5i&4n&e9&76&3'&ds&eM&1u&2s&9i&5c &3P&2l&da&7y&8e&er&1-&4=&5-&5=
+<11/12/2017 08:08:25> &4-&1=&c-&bC&ao&7p&dp&ce&4r&cP&ae&9n&1q&eu&5i&cn&49&76&4'&1s&cM&6u&2s&ei&5c &5P&dl&8a&ay&de&1r&7-&6=&6-&8=
+<11/12/2017 08:08:26> &a-&7=&c-&3C&2o&5p&ep&7e&0r&8P&6e&5n&7q&3u&4i&5n&a9&76&5'&4s&aM&bu&2s&5i&5c &8P&al&2a&dy&3e&4r&d-&8=&7-&b=
+<11/12/2017 08:08:27> &2-&d=&c-&9C&9o&4p&0p&2e&br&4P&2e&1n&eq&7u&4i&dn&09&76&7'&7s&8M&1u&2s&ai&5c &bP&6l&ba&2y&9e&7r&4-&a=&8-&d=
+<11/12/2017 08:08:28> &8-&5=&c-&1C&2o&2p&1p&ce&6r&1P&de&cn&6q&bu&4i&6n&69&76&8'&as&6M&6u&2s&0i&5c &eP&3l&5a&5y&ee&9r&a-&c=&a-&1=
+<11/12/2017 08:08:29> &e-&b=&c-&7C&9o&1p&2p&8e&2r&cP&9e&7n&dq&eu&3i&dn&b9&76&9'&ds&4M&bu&2s&5i&5c &1P&el&ea&8y&5e&cr&2-&e=&b-&4=
+<11/12/2017 08:08:30> &6-&2=&b-&eC&1o&ep&2p&3e&dr&8P&5e&3n&4q&3u&3i&6n&19&76&a'&1s&2M&1u&2s&ai&5c &4P&bl&8a&by&ae&0r&8-&1=&c-&6=
+<11/12/2017 08:08:31> &c-&8=&b-&6C&9o&dp&3p&de&9r&4P&1e&en&bq&7u&2i&en&79&76&b'&4s&1M&6u&2s&1i&5c &7P&7l&2a&ey&0e&2r&e-&2=&d-&9=
+<11/12/2017 08:08:32> &3-&0=&b-&cC&1o&bp&4p&8e&4r&1P&be&9n&3q&bu&2i&7n&c9&76&c'&7s&eM&bu&3s&6i&5c &aP&4l&ba&3y&6e&5r&5-&4=&e-&c=
+<11/12/2017 08:08:33> &a-&6=&b-&4C&8o&ap&5p&4e&0r&cP&7e&5n&aq&0u&2i&0n&39&76&d'&as&cM&1u&3s&bi&5c &cP&0l&5a&6y&be&8r&b-&6=&0-&e=
+<11/12/2017 08:08:34> &1-&c=&b-&bC&0o&8p&6p&ee&br&8P&3e&1n&1q&4u&1i&8n&89&76&e'&ds&aM&6u&3s&1i&6c &0P&cl&0a&9y&2e&ar&2-&8=&1-&2=
+<11/12/2017 08:08:35> &8-&4=&b-&2C&8o&6p&7p&9e&7r&4P&ee&cn&8q&7u&1i&0n&d9&76&0'&1s&8M&bu&3s&6i&6c &3P&8l&9a&cy&7e&dr&8-&a=&2-&5=
+<11/12/2017 08:08:36> &e-&a=&a-&9C&0o&5p&8p&4e&2r&1P&ae&7n&0q&bu&0i&8n&49&76&1'&4s&6M&1u&3s&bi&6c &6P&5l&3a&0y&ce&1r&e-&c=&3-&7=
+<11/12/2017 08:08:37> &5-&1=&a-&1C&7o&3p&8p&0e&dr&cP&6e&3n&7q&0u&0i&1n&99&76&2'&8s&4M&7u&3s&2i&6c &8P&1l&ca&4y&3e&3r&5-&e=&4-&a=
+<11/12/2017 08:08:38> &c-&7=&a-&7C&0o&2p&9p&ae&9r&8P&2e&en&eq&4u&ei&9n&e9&76&3'&bs&2M&cu&3s&7i&6c &bP&dl&6a&7y&8e&6r&c-&0=&5-&d=
+<11/12/2017 08:08:39> &3-&e=&a-&eC&7o&0p&ap&5e&5r&5P&de&9n&5q&8u&ei&2n&59&76&4'&es&0M&2u&3s&ci&6c &eP&9l&0a&ay&ee&9r&3-&2=&6-&0=
+<11/12/2017 08:08:40> &9-&5=&a-&6C&eo&ep&bp&1e&0r&1P&9e&5n&cq&cu&ei&9n&a9&76&5'&2s&dM&7u&3s&2i&6c &2P&6l&9a&dy&4e&br&9-&4=&7-&3=
+<11/12/2017 08:08:41> &6-&7=&c-&3C&ao&cp&ep&be&br&bP&2e&8n&4q&5u&1i&2n&b9&66&d'&8s&dM&bu&es&1i&0c &9P&dl&2a&8y&8e&dr&3-&c=&e-&0=
+<11/12/2017 08:08:42> &d-&d=&c-&aC&2o&ap&0p&6e&7r&7P&de&4n&bq&9u&1i&an&29&66&e'&bs&bM&1u&es&6i&0c &bP&al&ba&by&de&0r&9-&e=&0-&2=
+<11/12/2017 08:08:43> &4-&4=&c-&2C&9o&9p&1p&2e&2r&3P&9e&0n&2q&du&0i&3n&79&66&0'&es&9M&6u&es&ci&0c &eP&6l&5a&ey&3e&3r&0-&1=&1-&5=
+<11/12/2017 08:08:44> &a-&b=&c-&8C&2o&7p&2p&ce&dr&eP&5e&an&9q&2u&0i&bn&d9&66&1'&2s&7M&bu&es&2i&0c &2P&3l&ea&2y&9e&6r&6-&3=&2-&8=
+<11/12/2017 08:08:45> &2-&2=&c-&0C&9o&6p&3p&7e&9r&bP&1e&6n&1q&6u&ei&3n&39&66&2'&5s&5M&1u&es&7i&0c &5P&el&9a&5y&ee&8r&c-&5=&4-&a=
+<11/12/2017 08:08:46> &8-&8=&b-&7C&1o&4p&4p&3e&5r&7P&ce&2n&8q&9u&ei&bn&89&66&3'&8s&3M&6u&es&ci&0c &7P&bl&3a&9y&5e&br&4-&7=&5-&d=
+<11/12/2017 08:08:47> &0-&e=&b-&dC&9o&3p&4p&de&0r&3P&8e&cn&eq&du&ei&4n&e9&66&4'&bs&1M&bu&es&2i&0c &aP&7l&ca&cy&ae&er&a-&9=&6-&1=
+<11/12/2017 08:08:48> &6-&6=&b-&5C&1o&1p&5p&8e&br&eP&4e&8n&6q&2u&di&cn&49&66&5'&es&eM&1u&es&8i&0c &dP&4l&6a&0y&0e&1r&1-&a=&7-&3=
+<11/12/2017 08:08:49> &c-&c=&b-&cC&8o&0p&6p&3e&7r&bP&0e&4n&dq&6u&di&5n&a9&66&6'&2s&cM&6u&es&di&0c &1P&0l&0a&3y&6e&4r&7-&c=&8-&6=
+<11/12/2017 08:08:50> &4-&3=&b-&3C&0o&dp&7p&ee&3r&7P&be&0n&5q&au&ci&cn&09&66&7'&5s&bM&bu&es&3i&0c &3P&cl&9a&6y&be&7r&d-&e=&9-&9=
+<11/12/2017 08:08:51> &a-&9=&a-&aC&8o&cp&8p&9e&dr&3P&7e&an&bq&eu&ci&5n&59&66&8'&9s&9M&1u&0s&8i&1c &6P&8l&3a&ay&2e&9r&4-&1=&a-&b=
+<11/12/2017 08:14:00> &1=&2-&3=&4-&9CopperPenquin96's &bMusic Player&4-&3=&2-&1=
+<11/12/2017 08:15:02> &b-&9=&9-&aC&2o&1p&8p&3e&4r&0P&8e&5n&1q&au&di&an&29&a6&1'&0s&2M&au&es&8i&6c &aP&cl&3a&3y&3e&br&2-&5=&0-&a=
+<11/12/2017 08:14:48> &8Use /load (Url Directory/Local Directory) to start playing. Use /help for a list of commands.
+<11/12/2017 08:14:55> say       waht the heck
+<11/12/2017 08:14:55> lol
+<11/12/2017 08:14:59> stop this madness
